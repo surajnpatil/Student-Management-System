@@ -90,7 +90,7 @@ Before running the project, ensure you have:
     sub1 DOUBLE,
     sub2 DOUBLE,
     sub3 DOUBLE,
-    percentage DOUBLE,
+    percentage DECIMAL(5,2),
     grade VARCHAR(10)
 ); 
 ```
