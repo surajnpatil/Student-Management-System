@@ -76,7 +76,7 @@ Before running the project, ensure you have:
 2. **Create and use the database:**
    ```sql
    CREATE DATABASE studentdb;
-   USE studentdb1;
+   USE studentdb;
 
 3. **Create the students table:**
   ```sql
