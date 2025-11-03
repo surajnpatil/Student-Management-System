@@ -125,7 +125,7 @@ git clone https://github.com/surajnpatil/Student-Management-System.git
 4. **Check the database credentials in `DatabaseConnection.java`:**
 
    ```java
-   private static final String URL = "jdbc:mysql://localhost:3306/studentdb1?serverTimezone=UTC";
+   private static final String URL = "jdbc:mysql://localhost:3306/studentdb?serverTimezone=UTC";
    private static final String USER = "root";
    private static final String PASSWORD = "root";
 
