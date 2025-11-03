@@ -23,7 +23,7 @@ import java.sql.SQLException;
 public class DatabaseConnection {
 
     /** JDBC URL of the MySQL database (includes timezone parameter). */
-    private static final String URL = "jdbc:mysql://localhost:3306/studentdb1?serverTimezone=UTC";
+    private static final String URL = "jdbc:mysql://localhost:3306/studentdb?serverTimezone=UTC";
 
     /** Username for database authentication. */
     private static final String USER = "root";
