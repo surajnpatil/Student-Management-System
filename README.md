@@ -75,7 +75,7 @@ Before running the project, ensure you have:
 1. **Open MySQL Workbench** (or your SQL client).  
 2. **Create and use the database:**
    ```sql
-   CREATE DATABASE studentdb1;
+   CREATE DATABASE studentdb;
    USE studentdb1;
 
 3. **Create the students table:**
